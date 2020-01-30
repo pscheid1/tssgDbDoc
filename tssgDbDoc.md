@@ -72,9 +72,7 @@ Cd to the parent folder of dump.
 > In the example below my folder is d:\\tssg\\database\\restoredb with a dump child folder.
 
 > Example:
-> ![](d:/tssg/tssgDbDoc/media/image1.png)  
-
-> ![](../tssgDbDoc/media/image1.png)
+> ![Image1 Not Found](/media/image1.png)
 > 
 > Make sure your MongoDB service is running. If you are using the default port (27017) you don’t need to do anything else. If you have changed ports, url, and other items, you will need to check the mongorestore documentation on how to declare parameters for the changes. Use the following link:
 > 
